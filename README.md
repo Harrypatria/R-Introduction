@@ -2,6 +2,9 @@
 
 R is an open-source programming language that is widely used for statistical computing, data analysis, and graphical representation of data. It was developed in the early 1990s by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand. R provides a wide range of tools for data manipulation, statistical analysis, and visualization.
 
+
+R cheat sheet: ![Alt Text](https://mapstats.files.wordpress.com/2020/12/base-r-1.jpg?w=1024)
+
 R is a popular choice among statisticians, data scientists, and researchers for its flexibility, powerful data analysis tools, and vast community of users and developers who contribute to the development of R packages. R has a steep learning curve, but with practice, it can be a powerful tool for analyzing and visualizing complex data.
 
 R is available for free and runs on multiple operating systems, including Windows, macOS, and Linux. It can be downloaded from the Comprehensive R Archive Network (CRAN) and installed on your computer. R also has a variety of integrated development environments (IDEs) and text editors that provide a more user-friendly interface for coding.
