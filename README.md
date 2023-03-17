@@ -30,3 +30,7 @@ R Markdown is an easy-to-use tool for creating reproducible reports and document
 
 ### R shiny
 Shiny lets us build interactive web apps, using R. This means we can use (pretty much) all of R’s extensive (and extensible) data analysis and visualisation features in our app. Essentially, we can take almost any analysis we’ve done in R, and then make it interactive. We can run our apps locally, within R Studio (this is what we’ll do most of today), make them standalone, either by deploying them to a Shiny Server, or to a hosting service, such as https://shinyapps.io (we’ll do this today), or even including them in a Markdown document.
+
+R studio provide a gallery of other Shiny apps: https://shiny.rstudio.com/gallery/
+
+Shiny works well with many widely used R packages, such as ggplot2, and Leaflet for R.
